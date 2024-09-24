@@ -1,16 +1,16 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 💙
 
-<!--
-**Surttz/Surttz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e Pedro Henrique
 
-Here are some ideas to get you started:
+- Estou estudando no Alura(https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estou me desnvolvendo na linguagem javaScript
+
+- Utilizo esse espaço para minha organização e compartilhamento dos projetos desenvolvidos
+
+### voce entra em contat comigo 📫
+
+00001120049313sp@al.educacao.sp.gov.br
+
+@Surttz
+![](https://media1.tenor.com/m/mCiM7CmGGI4AAAAC/naruto.gif)
